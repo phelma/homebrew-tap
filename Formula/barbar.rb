@@ -1,4 +1,4 @@
-class BarBar < Formula
+class Barbar < Formula
   desc "A command line tool for doing some stuff"
   homepage "https://github.com/phelma/homebrew-tap"
   url "https://github.com/phelma/homebrew-tap/releases/download/0.0.2/barbar0.0.1.tar.gz"
