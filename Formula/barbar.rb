@@ -7,7 +7,6 @@ class Barbar < Formula
   bottle :unneeded
 
   def install
-    bin.install "barbar"
-    bin.install "barfoo"
+    bin.install Dir["output/*"]
   end
 end
